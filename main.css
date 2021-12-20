@@ -1,0 +1,16 @@
+body {
+    background-color: #580606;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    margin: 0;
+    color: #00ffe1;
+    transition-property: background-color, color !important;
+}
+.satan:hover {
+    color: #00ffe1;
+    transform: translate(100000px, 100000px);
+    transition: all 10s ease;
+    transform: rotate(7200deg);
+}
